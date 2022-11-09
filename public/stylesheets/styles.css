@@ -5,3 +5,16 @@ dark-blue: #0a2c42;
 grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
 */
+
+.index-img {
+    width: 300px;
+    height: 300px;
+    margin: 40px 0;
+}
+
+.bottle-img {
+    width: 25%;
+    height: 25%;
+    margin-left: 120px;
+    margin-bottom: 10px;
+}
